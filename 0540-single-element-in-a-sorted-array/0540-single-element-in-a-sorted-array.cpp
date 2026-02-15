@@ -1,10 +1,21 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int ans=0;
-        for(int i=0;i<nums.size();i++)
-            ans = ans ^ nums[i];
+        int n=nums.size();
+        int low = 0,high = n-1;
+        while(low<high)
+        {
+            int mid = low + (high-low)/2;
+            //make mid even bcz pair starts from even pos
+            if(mid % 2 ==1 )
+                mid--;
 
-        return ans;
+            if(nums[mid] == nums[mid+1])
+                low = mid+2;
+            
+            else
+                high = mid;
+        }
+        return nums[low];
     }
 };
