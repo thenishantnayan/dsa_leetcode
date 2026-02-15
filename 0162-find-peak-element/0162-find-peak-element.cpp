@@ -2,15 +2,28 @@ class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
         int n = nums.size();
-        //check first element 
-        if(n == 1 || nums[0]>nums[1])
-            return 0;
-        for(int i=1;i<n-1;i++)
+        int start = 0, end = n - 1;
+        // we keep shrinking the search space
+        // until start and end meet at peak index
+        while(start < end)
         {
-            if(nums[i]>nums[i-1] && nums[i]>nums[i+1])
-                return i;
+            int mid = start + (end - start) / 2;
+            // compare current element with next element
+            // this tells us whether we are going UP or DOWN
+            if(nums[mid] < nums[mid + 1])
+            {
+                // slope is increasing (↗️)
+                // peak must be on RIGHT side
+                start = mid + 1;
+            }
+            else
+            {
+                // slope is decreasing (↘️)
+                // peak is on LEFT side or at mid
+                end = mid;
+            }
         }
-        // if not find return last element 
-        return n-1;
+        // when start == end, we found a peak index
+        return start;
     }
 };
