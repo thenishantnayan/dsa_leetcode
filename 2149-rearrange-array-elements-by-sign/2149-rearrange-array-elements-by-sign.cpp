@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
         int n = nums.size();
-        vector<int>ans(n);
+        vector<int>ans(n,0);
         int i=0,j=1;
         //ans is assigned with the size so push back is not possible , assign values to the index
         for(int k=0;k<n;k++)
