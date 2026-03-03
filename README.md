@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0015-3sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
