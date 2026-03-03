@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0704-binary-search) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
