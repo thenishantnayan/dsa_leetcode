@@ -1,25 +1,17 @@
 class Solution {
 public:
-    int solve(string s, char start)
-    {
-        int count =0;
-        int n = s.length();
-
+    int minOperations(string s) {
+        int n = s.size();
+        int count1=0,count2=0;
         for(int i=0;i<n;i++)
         {
-            if(s[i]!=start)
-                count++;
-            
-            //flip character
-            start = (start =='0') ? '1' : '0';
+            //patern 1 010101
+            if(s[i] != (i%2 ? '1':'0'))
+                count1++;
+
+            if(s[i] != (i%2 ? '0':'1'))
+                count2++;
         }
-        return count;
-    }
-
-    int minOperations(string s) {
-        int opt1 = solve(s,'0'); //010101
-        int opt2 = solve(s,'1'); //101010
-
-        return min(opt1,opt2);
+        return min(count1,count2);
     }
 };
