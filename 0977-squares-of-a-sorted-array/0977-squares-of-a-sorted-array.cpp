@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
+        // ans vector store from end pos
         int n = nums.size();
         vector<int>ans(n);
         int pos = n-1;
