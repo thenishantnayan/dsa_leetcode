@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1980-find-unique-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
