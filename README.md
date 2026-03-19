@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1046-last-stone-weight) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1980-find-unique-binary-string) |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
