@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
