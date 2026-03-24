@@ -33,13 +33,10 @@ public:
                         right--;
                 }
                 else if(sum < 0)
-                {
                     left++;
-                }
+
                 else
-                {
                     right--;
-                }
             }
         }
         return ans;
