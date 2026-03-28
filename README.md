@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
