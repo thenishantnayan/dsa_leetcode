@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1070-product-sales-analysis-iii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1174-immediate-food-delivery-ii) |
