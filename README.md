@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1174-immediate-food-delivery-ii) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1517-find-users-with-valid-e-mails) |
