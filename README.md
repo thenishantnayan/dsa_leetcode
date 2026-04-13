@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1046-last-stone-weight) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
