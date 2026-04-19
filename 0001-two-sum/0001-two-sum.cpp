@@ -1,26 +1,14 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n =nums.size();
-        vector<pair<int,int>>arr;
-        for(int i=0;i<n;i++)
+        unordered_map<int,int>mp;
+        for(int i=0;i<nums.size();i++)
         {
-            arr.push_back({nums[i],i});
-        }
-        sort(arr.begin(),arr.end());
-        int start=0,end=n-1;
-        while(start<end)
-        {
-            int sum = arr[start].first + arr[end].first;
+            int rem = target - nums[i]; // remaining nikalo
+            if(mp.find(rem) != mp.end()) // find kro rem hai ya nhi , hai to 
+                return {mp[rem],i}; //return index dena hai  
             
-            if(sum == target)
-                return {arr[start].second,arr[end].second};
-            
-            else if(sum<target)
-                start++;
-            
-            else
-                end--;
+            mp[nums[i]] = i; //store current value baad me check krne k liy
         }
         return {};
     }
