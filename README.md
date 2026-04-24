@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1980-find-unique-binary-string) |
+| [2833-furthest-point-from-origin](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1025-divisor-game) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
