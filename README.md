@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0136-single-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
