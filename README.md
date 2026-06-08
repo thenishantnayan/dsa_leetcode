@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
