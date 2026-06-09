@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
