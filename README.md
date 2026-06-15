@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
