@@ -1,30 +1,43 @@
 class KthLargest {
 public:
-priority_queue<int,vector<int>,greater<int>>p;
-int k;
+
+    // Min Heap to store the k largest elements seen so far
+    priority_queue<int, vector<int>, greater<int>> p;
+
+    // Stores the value of k
+    int k;
+
+    // Constructor
     KthLargest(int k, vector<int>& nums) {
-    this->k=k;
 
-    for(int x:nums){
-        p.push(x);
+        // Initialize class variable k
+        this->k = k;
 
-    if(p.size()>k)
-        p.pop();
-        }  
+        // Insert all elements into the min heap
+        for(int x : nums) {
+
+            p.push(x);
+
+            // If heap size becomes greater than k,
+            // remove the smallest element
+            // This ensures only k largest elements remain
+            if(p.size() > k)
+                p.pop();
+        }
     }
-    
+
+    // Function to add a new element to the stream
     int add(int val) {
+
+        // Insert the new element
         p.push(val);
 
-    if(p.size()>k)
-        p.pop();
+        // If heap size exceeds k,
+        // remove the smallest element
+        if(p.size() > k)
+            p.pop();
 
-    return p.top();
+        // The top of the min heap is the kth largest element
+        return p.top();
     }
 };
-
-/**
- * Your KthLargest object will be instantiated and called as such:
- * KthLargest* obj = new KthLargest(k, nums);
- * int param_1 = obj->add(val);
- */
