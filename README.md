@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0796-rotate-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
