@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0344-reverse-string) |
