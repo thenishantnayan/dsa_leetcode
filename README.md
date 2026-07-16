@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1025-divisor-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
