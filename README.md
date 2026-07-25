@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1025-divisor-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
