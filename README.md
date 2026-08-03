@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1046-last-stone-weight) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1025-divisor-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1025-divisor-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1025-divisor-game) |
 ## Counting
 |  |
