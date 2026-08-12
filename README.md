@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0509-fibonacci-number) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -455,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
