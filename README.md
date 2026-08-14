@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Combinatorics
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
