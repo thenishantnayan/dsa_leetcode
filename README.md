@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/thenishantnayan/dsa_leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1980-find-unique-binary-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/thenishantnayan/dsa_leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/thenishantnayan/dsa_leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/thenishantnayan/dsa_leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Complete Knapsack
 |  |
 | ------- |
